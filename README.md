@@ -8,4 +8,4 @@ int main()
     printf("Hello World\n");
 }
 ```
-![圖] (week01_2.jpg)
+![圖](week01-2.jpg)
