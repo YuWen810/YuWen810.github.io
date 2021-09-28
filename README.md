@@ -1,7 +1,7 @@
 # YuWen810.github.io
 
 # 第01週
-```
+```c
 #include <stdio.h>
 int main()
 {
